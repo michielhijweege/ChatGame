@@ -5,3 +5,4 @@ hoe instaleer en run de dit project
 4. daarna in de terminal zorg dat je in de server map zit en run dan "npm run dev"
 5. in een nieuwe terminal zorg dat je in de webapp map zit en run dan "npm install"
 6. daarna in de terminal zorg dat je in de webapp map zit en run dan "npm run dev"
+7. als laatst kijk op welke poort de webapp is en open die dan op het internet bijvoorbeeld : http://localhost:poortnummer/
