@@ -1,0 +1,7 @@
+hoe instaleer en run de dit project
+1. download de game
+2. nu in de terminal zorg dat je in de server map zit en run dan "npm install"
+3. maak in de server folder een nieuwe .env document zet daar de API keys vaan chatGPT zoals in de powerpoint
+4. daarna in de terminal zorg dat je in de server map zit en run dan "npm run dev"
+5. in een nieuwe terminal zorg dat je in de webapp map zit en run dan "npm install"
+6. daarna in de terminal zorg dat je in de webapp map zit en run dan "npm run dev"
