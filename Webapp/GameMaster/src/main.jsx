@@ -7,6 +7,7 @@ import {RouterProvider} from "react-router-dom";
 import Home from "./Home.jsx";
 import GameMenu from "./Gamemenu.jsx";
 import Game1 from "./game.jsx";
+import Game2 from "./game2.jsx";
 
 const router = createBrowserRouter([
     {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
             {
                 path: "game",
                 element: <Game1 />,
+            },
+            {
+                path: "game2",
+                element: <Game2 />,
             },
         ],
     },

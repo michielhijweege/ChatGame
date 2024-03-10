@@ -97,3 +97,7 @@ nav{
   height: 600px;
   overflow:auto;
 }
+
+#startButton{
+  margin-top: 100px;
+}

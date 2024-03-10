@@ -12,8 +12,8 @@ const Home = () => {
                         <button>21 Questions</button>
                     </Link>
 
-                    <Link to="/game">
-                        <button>game 2</button>
+                    <Link to="/gamemenu/game2">
+                        <button>trivia</button>
                     </Link>
                 </nav>
 
